@@ -26,7 +26,7 @@ int main()
     getline(cin, str);
     stringstream ss(str);
     int number;
-    while (ss > number)
+    while (ss >> number)
     {
         nums.push_back(number);
     }
