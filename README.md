@@ -12,7 +12,7 @@ else cout << "Odd";
 ```
 use this - 
 ```cpp
-if(n&2) 
+if(n&1) 
     cout << "Odd";
 else cout << "Even";
 ```
