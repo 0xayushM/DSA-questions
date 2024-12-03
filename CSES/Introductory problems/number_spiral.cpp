@@ -12,11 +12,11 @@ int main() {
         cin >> i >> j;
         ll value;
         if(i>=j) {
-            if(i&2) 
+            if(i&1) 
                 value = ((i-1)*(i-1)) + j;
             else value = (i*i) - j + 1;
         } else if(i<j) {
-            if(j&2) 
+            if(j&1) 
                 value = (j*j) - i + 1;
             else value = ((j-1)*(j-1)) + i;
         }
