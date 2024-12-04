@@ -24,6 +24,7 @@ This repository contains solutions to various DSA problems from platforms like *
 | 3   | Remove Element             | Arrays/Strings   | [Problem](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/remove_element.cpp) |
 | 4   | Remove Duplicates from Sorted Array             | Arrays/Strings   | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/remove_duplicates_from_sorted_array.cpp) |
 | 5   | Remove Duplicates from Sorted Array II             | Arrays/Strings   | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/remove_duplicate_from_sorted_array_II.cpp) |
+| 5   | Rotate Array             | Arrays/Strings   | [Problem](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/rotate_array.cpp) |
 
 ### CSES ( [link](https://cses.fi/problemset/) )
 
