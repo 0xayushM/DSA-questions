@@ -25,6 +25,7 @@ This repository contains solutions to various DSA problems from platforms like *
 | 4   | Remove Duplicates from Sorted Array             | Arrays/Strings   | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/remove_duplicates_from_sorted_array.cpp) |
 | 5   | Remove Duplicates from Sorted Array II             | Arrays/Strings   | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/remove_duplicate_from_sorted_array_II.cpp) |
 | 5   | Rotate Array             | Arrays/Strings   | [Problem](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/rotate_array.cpp) |
+| 6   | Best time to buy and sell stock             | Arrays/Strings   | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/best_time_to_buy_and_sell_stock.cpp) |
 
 ### CSES ( [link](https://cses.fi/problemset/) )
 
