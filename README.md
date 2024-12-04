@@ -37,6 +37,8 @@ This repository contains solutions to various DSA problems from platforms like *
 | 4   | Increasing Array              | [Problem](https://cses.fi/problemset/task/1094) | [Solution](./CSES/Introductory%20problems/increasing_array.cpp) |
 | 5   | Permutations             | [Problem](https://cses.fi/problemset/task/1070) | [Solution](./CSES/Introductory%20problems/permutations.cpp) |
 | 6   | Number Spiral              | [Problem](https://cses.fi/problemset/task/1071) | [Solution](./CSES/Introductory%20problems/number_spiral.cpp) |
+| 7   | Two Knights              | [Problem](https://cses.fi/problemset/task/1072) | [Solution](./CSES/Introductory%20problems/two_knights.cpp) |
+| 8   | Two Sets              | [Problem](https://cses.fi/problemset/task/1092) | [Solution](./CSES/Introductory%20problems/two_sets.cpp) |
 
 #### 2. Sorting and Searching
 
