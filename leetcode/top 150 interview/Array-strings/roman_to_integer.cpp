@@ -15,7 +15,7 @@ int romanToInt(string s) {
     };
     int res = 0;
     for(int i=0;i<s.length()-1;i++) {
-        if(roman[s[i]] > roman[s[i+1]])
+        if(roman[s[i]] >= roman[s[i+1]])
             res += roman[s[i]];
         else if(roman[s[i]] < roman[s[i+1]])
             res -= roman[s[i]];
