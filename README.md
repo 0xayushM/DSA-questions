@@ -26,6 +26,7 @@ This repository contains solutions to various DSA problems from platforms like *
 | 5   | Remove Duplicates from Sorted Array II             | Arrays/Strings   | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/remove_duplicate_from_sorted_array_II.cpp) |
 | 5   | Rotate Array             | Arrays/Strings   | [Problem](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/rotate_array.cpp) |
 | 6   | Best time to buy and sell stock             | Arrays/Strings   | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/best_time_to_buy_and_sell_stock.cpp) |
+| 6   | Roman to Integer            | Arrays/Strings   | [Problem](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/roman_to_integer.cpp) |
 
 ### CSES ( [link](https://cses.fi/problemset/) )
 
