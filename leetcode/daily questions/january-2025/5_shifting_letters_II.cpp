@@ -4,18 +4,24 @@
 using namespace std;
 
 string shiftingLetters(string s, vector<vector<int>>& shifts) {
+    int n = s.length();
+    vector<int> prefixSum(n+1,0);
     for(auto x: shifts) {
-        for(int i=x[0];i<=x[1];i++) {
-            if(x[2] == 0) {
-                if(s.at(i) == 'a')
-                    s.at(i) = 'z';
-                else s.at(i) -= 1;
-            } else if(x[2] == 1) {
-                if(s.at(i) == 'z')
-                    s.at(i) = 'a';
-                else s.at(i) += 1;
-            }
+        int start = x[0], end = x[1], direction = x[2];
+        if(direction == 1) {
+            prefixSum[start]++;
+            prefixSum[end+1]--;
+        } else {
+            prefixSum[start]--;
+            prefixSum[end+1]++;
         }
+    }
+    for(int i=1;i<n;i++) {
+        prefixSum[i] += prefixSum[i-1];
+    }
+    for(int i=0;i<n;i++) {
+        int netShift = (prefixSum[i] % 26 + 26) % 26;
+        s[i] = 'a' + (s[i] + netShift - 'a') % 26;
     }
     return s;
 }
