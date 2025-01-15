@@ -30,6 +30,7 @@ This repository contains solutions to various DSA problems from platforms like *
 | 9   | Integer to Roman            | Arrays/Strings   | [Problem](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/integer_to_roman.cpp) |
 | 10   | Length of Last Word            | Arrays/Strings   | [Problem](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/length_of_last_word.cpp) |
 | 11   | Best time to buy and sell stock II            | Arrays/Strings   | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/best_time_to_buy_and_sell_stock__II.cpp) |
+| 12   | Jump Game            | Arrays/Strings   | [Problem](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](./leetcode/top%20150%20interview/Array-strings/jump_game.cpp) |
 
 ### CSES ( [link](https://cses.fi/problemset/) )
 
