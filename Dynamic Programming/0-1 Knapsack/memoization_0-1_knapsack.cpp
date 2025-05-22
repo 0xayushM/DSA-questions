@@ -5,7 +5,9 @@ using namespace std;
 int dp[1002][1002];
 
 int knapsack(vector<int>& weight, vector<int>& value, int W, int n) {
-
+    //base case
+    if(W == 0 || n == 0) 
+        return 0;
     // wherever the value in matrix is not -1, return that value
     if(dp[n][W] != -1)
         return dp[n][W];
