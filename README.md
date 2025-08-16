@@ -1,5 +1,27 @@
 
-# DSA Solutions Repository
+# 🚀 DSA Problem Set Repository  
+
+This repository contains **clean implementations of classic DSA problems**, organized by topic.  
+Each entry includes:  
+- 📌 Problem Name  
+- 🔗 Link to the original problem  
+- 💻 Solution file in this repo  
+
+---
+
+## 📂 Problem Categories  
+
+### 1️⃣ Arrays  
+
+#### 🔹 Two Pointers  
+
+| #   | Problem Name | Solution |
+|-----|--------------|----------|
+| 1   | [3Sum](https://leetcode.com/problems/3sum/description/) | [Link](./Arrays/TwoPointers/leetcode/3Sum.cpp) |
+| 2   | [Container with the most water](https://leetcode.com/problems/container-with-most-water/description/) | [Link](./Arrays/TwoPointers/leetcode/Container_with_most_water.cpp) |
+| 3   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description) | [Link](./Arrays/TwoPointers/leetcode/Remove_duplicate_from_sorted_array.cpp) |
+| 4   | [Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Link](./Arrays/TwoPointers/leetcode/Two_Sum_II.cpp) |
+| 5   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description//) | [Link](./Arrays/TwoPointers/leetcode/Trapping_rain_water.cpp) |
 
 ## Keypoints
 
