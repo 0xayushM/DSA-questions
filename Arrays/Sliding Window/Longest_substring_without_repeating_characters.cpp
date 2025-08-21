@@ -7,7 +7,7 @@ public:
         unordered_set<int> freq;
         int right = 0, left = 0, maxCount = 0;
         while(right < s.length()) {
-            if(!freq.contains(s.at(right))) {
+            if(freq.find(s.at(right)) != freq.end()) {
                 freq.insert(s.at(right));
                 maxCount = max(maxCount, right - left + 1);
                 right++;
